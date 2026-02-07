@@ -4,7 +4,7 @@ class Computer{
 System.out.print(" singing the song");
     }
 
-    public String  getMe(){
+    public String getMe(){
          return "the number is getMe";
     }
 }
