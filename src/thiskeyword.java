@@ -6,13 +6,15 @@ class Animals{
        return name;
    }
    public  void setName(String nameobj){
-       name  = nameobj;
+
+       this.name  = nameobj;
    }
     public int getAge(){
         return age;
     }
     public  void setAge(int Ageobj){
-        age = Ageobj;
+
+       this.age = Ageobj;
     }
 }
 
